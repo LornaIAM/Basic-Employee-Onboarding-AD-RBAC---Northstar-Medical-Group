@@ -1,1 +1,10 @@
+Domain Name: NMG.com
+OUs Created: Finance, HR, IT, Operations
+Security groups created: Finance-Users, HR-Users, IT-Users, Operations-Users
+Purpose of each OU: Brief Descript of what each department represents
+•	HR (Human Resources) – contains all user accounts and resources for the HR department. This OU typically has strict access controls since HR manages sensitive employee data like personal information and employment records
+•	Finance – Contains all user accounts and resources for the Finance Department, usually on locked down OUs in any organization because users here have access to financial systems, payment processing and sensitive company data – heavily governed by compliance frameworks SOX ad PCI-DSS
+•	IT (Information Technology) – contains user accounts for the IT and systems administration IT users often have elevated privileges compared to other departments – making this OU critical from a PAM perspective since it may contain admin accounts that need extra protection
+•	Operation – Contains user accounts of the Operation Department – the team that keeps day to day business running. Access is typically scoped to operational tools, internal systems, and workflow platforms relevant to their specific business function
+Date Completed 07/11/2026
 
