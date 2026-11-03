@@ -1,0 +1,8 @@
+Ticket number: NMG-0047
+Affected user: Jane Cooper (jcooper@NMG.com)
+Issue reported: Unable to access HR shared resources. Desktop policies and mapped drives differ from teammates.
+Root cause: Jane Cooper is currently in the Operations OU and she should be in the HR OU. Looking at the ADUC I can see that the provisioning for Jane Cooper was done incorrectly during onboarding which is the root cause of all symptoms
+Fix applied: I moved Jane Cooper to the correct OU, HR OU because she is an HR Payroll Specialist. Then I corrected her security group to HR-Users so she could have access to all HR shared resources. Lastly, I removed Jane Cooper from the Operations Security Group (Operations-User) because she shouldn’t have any access to any Operations shared resources and desktop policies
+Verification: I verified by checking the HR-Users security group members list which confirmed Jane Cooper was a member, I verified via Jane Cooper account that she was also listed as a member of the HR-Users security group, I verified that Jane Cooper is in the HR OU. I also verified that the Operations OU no longer listed Jane Cooper’s account. Please see the screenshots provided
+Date resolved: 08-09-2026
+Resolved by: IAM Analyst – Lorna Labidou
