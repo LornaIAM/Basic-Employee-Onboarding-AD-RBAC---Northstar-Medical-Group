@@ -8,7 +8,7 @@ Northstar Medical Group was using an MSP (Managed Service Provider) to handle th
 
 
 ## Solution Overview
-My first approach 
+My first approach to replace Northstar's manual, ad hoc process with a purpose-built Active Directory environment organized by department and governed by role-based access. I built the NMG.com domain on a Windows Server 2019 domain controller, then designed four department OUs (Finance, HR, IT, Operations), each with a matching security group.
 
 [Provide 4 to 6 sentences describing what you built and how it solved the problem. Cover the new domain creation, the structural OU design, the security groups, the flat RBAC model, and how user provisioning was secured.]
 
