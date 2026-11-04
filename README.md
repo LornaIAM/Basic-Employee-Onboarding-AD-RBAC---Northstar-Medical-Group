@@ -4,6 +4,7 @@
 Active Directory infrastructure rebuild for a fictional company called “Northstar Medical Group”. Includes domain setup, organizational structure, user provisioning, RBAC implementation, and incident resolution
 
 ## Problem Statement
+Northstar Medical Group was using an MSP (Managed Service Provider) to handle their infrastructure and run their IT operations. At the time Northstar Medical Group was smaller and did not have the bandwidth to handle these processes. Fast forward, the Group has grown and along with their growth the 
 [Provide 3 to 5 sentences describing what was broken at Northstar Medical Group. Mention the MSP mismanagement, lack of structure, manual processes, and HIPAA risks that existed before your project.]
 
 ## Solution Overview
