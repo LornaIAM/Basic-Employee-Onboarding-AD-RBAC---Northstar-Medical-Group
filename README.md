@@ -8,7 +8,7 @@ Active Directory infrastructure rebuild for a fictional company called “Norths
 
 
 ## Solution Overview
-* My approach was to replace Northstar's manual, ad hoc process with a purpose-built Active Directory environment organized by department and governed by role-based access. I built the NMG.com domain on a Windows Server 2019 domain controller, then designed four department OUs (Finance, HR, IT, Operations), each with a matching security group. The new environment now provides a centralized system where the users are managed in an organized and efficient way. I created the Security Groups to control the workforce access and then provisioned each user by placing them in their respective departments OUs and Security Group. This fixed Northstar's previous security issue, where users had access that did not match their job duties.
+* My approach was to replace Northstar's manual, ad hoc process with a purpose-built Active Directory environment organized by department and governed by role-based access. I built the NMG.com domain on a Windows Server 2019 domain controller, then designed four department OUs (Finance, HR, IT, Operations), each with a matching security group. The new environment now provides a centralized system where the users are managed in an organized and efficient way. I created the Security Groups to control the workforce access and then provisioned each user by placing them in their respective departments OUs and Security Group. This fixed Northstar's previous security issue, where users had access that did not match their job duties. I also simulated a mock ticket where a user was misprovisioned and which caused the user to have the wrong level of access.
 
 
 ## Video Walkthrough
