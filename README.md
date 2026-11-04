@@ -29,6 +29,5 @@ My first approach was to replace Northstar's manual, ad hoc process with a purpo
 * Day 5: Documentation and case study packaging
 
 ## Key Accomplishments
-* Built NMG.com domain from scratch
-* [Add your second key accomplishment here]
-* [Add your third key accomplishment here]
+* Built an Active Directory NMG.com domain from scratch
+* Created 15 users and created Security Groups within each OU to secure the user provisioning for each user
