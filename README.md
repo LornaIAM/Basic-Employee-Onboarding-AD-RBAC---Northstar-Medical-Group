@@ -31,5 +31,6 @@ allowing the security groups to secure the user provisioning by only assigning t
 * Day 5: Documentation and case study packaging
 
 ## Key Accomplishments
-* Built an Active Directory NMG.com domain from scratch
-* Created 15 users and created Security Groups within each OU to secure the user provisioning for each user
+* Built the Active Directory NMG.com domain from scratch
+* Designed four department OUs with matching Security Groups and provisioned all 15 users into them using a flat RBAC model
+* Diagnosed and resolved a mis provisioned-user incident (NMG-0047) and documented the fix with screenshots
