@@ -8,6 +8,8 @@ Northstar Medical Group was using an MSP (Managed Service Provider) to handle th
 
 
 ## Solution Overview
+My first approach 
+
 [Provide 4 to 6 sentences describing what you built and how it solved the problem. Cover the new domain creation, the structural OU design, the security groups, the flat RBAC model, and how user provisioning was secured.]
 
 ## Video Walkthrough
