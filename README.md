@@ -33,4 +33,4 @@ Active Directory infrastructure rebuild for a fictional company called “Norths
 * Built the Active Directory NMG.com domain from scratch
 * Designed four department OUs with matching Security Groups and provisioned all 15 users into them using a flat RBAC model
 * Diagnosed and resolved a mis provisioned-user incident (NMG-0047) and documented the fix with screenshots
-* I was able to document my steps to solving the mock ticket so that anyone who reads my issue can fully understand the issue and the solution. This process can also be included in policies in the future to anyone having the same issue
+* I was able to document my steps from E2E of solving the mock ticket so that anyone who reads my issue can fully understand the issue and the solution. This process can also be included in policies that can be referred to by other team members with the same issue
