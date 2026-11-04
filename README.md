@@ -8,7 +8,7 @@ Northstar Medical Group was using an MSP (Managed Service Provider) to handle th
 
 
 ## Solution Overview
-My approach was to replace Northstar's manual, ad hoc process with a purpose-built Active Directory environment organized by department and governed by role-based access. I built the NMG.com domain on a Windows Server 2019 domain controller, then designed four department OUs (Finance, HR, IT, Operations), each with a matching security group. The new environment is now providing a centralized system where the users are managed in an organized and efficient way. By creating the Security Groups this enables the control of the workforce users access and then provisioning the by putting each user in their respective Security Group. This process fixed the security issue that Northstar Medical Group had before where users would have access that did not apply to their job duties.
+My approach was to replace Northstar's manual, ad hoc process with a purpose-built Active Directory environment organized by department and governed by role-based access. I built the NMG.com domain on a Windows Server 2019 domain controller, then designed four department OUs (Finance, HR, IT, Operations), each with a matching security group. The new environment now provides a centralized system where the users are managed in an organized and efficient way. I created the Security Groups to control the workforce access and then provisioned each user by placing them in their respective departments OUs and Security Group. This fixed Northstar's previous security issue, where users had access that did not match their job duties.
 
 
 ## Video Walkthrough
