@@ -12,7 +12,7 @@ Active Directory infrastructure rebuild for a fictional company called “Norths
 
 
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+[Watch the video walkthrough](https://drive.google.com/file/d/1GQJfUVZ3ZXMysoLMM8md6sBS_lK65oHs/view?usp=sharing)
 
 ## Tools Used
 * Windows Server
