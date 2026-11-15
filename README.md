@@ -13,6 +13,13 @@ Active Directory infrastructure rebuild for a fictional company called “Norths
 
 ## Video Walkthrough
 [Watch the video walkthrough](https://drive.google.com/file/d/1GQJfUVZ3ZXMysoLMM8md6sBS_lK65oHs/view?usp=sharing)
+This walkthrough demonstrates my Active Directory lab environment for the fictional Northstar Medical Group, built to replace a manual, unstructured onboarding process with a role-based access control (RBAC) model. In the video, I show:
+
+- The **NMG.com domain** running on a Windows Server 2019 domain controller in VirtualBox
+- The **organizational structure**: four department OUs (Finance, HR, IT, and Operations)
+- The **security groups** matched to each department and how they control access
+- **User provisioning** and placing users in the correct OU and security group
+- A **mock incident ticket**, where a misprovisioned user had the wrong level of access, and how I diagnosed and resolved it in Active Directory Users and Computers (ADUC)
 
 ## Tools Used
 * Windows Server
